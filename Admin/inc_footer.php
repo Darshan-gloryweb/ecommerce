@@ -1,0 +1,2 @@
+<div id="footer"> &copy; Copyright <?=date('Y')?> <span class="tip"><a  href="" title="<?=$mywebsitename?>" ><?=$mywebsitename?></a> </span> </div>
+ <script src="<?=$adminpath?>/js/ecustom.js" type="text/javascript" charset="utf-8"></script>    

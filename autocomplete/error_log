@@ -1,0 +1,78 @@
+[12-Mar-2014 09:09:03] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 18
+[12-Mar-2014 09:09:03] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 19
+[12-Mar-2014 09:09:06] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 18
+[12-Mar-2014 09:09:06] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 19
+[12-Mar-2014 09:09:11] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 18
+[12-Mar-2014 09:09:11] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 19
+[12-Mar-2014 09:09:12] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 18
+[12-Mar-2014 09:09:12] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 19
+[12-Mar-2014 09:09:19] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 18
+[12-Mar-2014 09:09:19] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 19
+[12-Mar-2014 09:09:23] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 18
+[12-Mar-2014 09:09:23] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 19
+[12-Mar-2014 09:10:49] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:10:49] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:11:18] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:11:18] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:11:52] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:11:52] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:11:55] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:11:55] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:11:56] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:11:56] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:11:59] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:11:59] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:12:02] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:12:02] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:12:04] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:12:04] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:12:05] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:12:05] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:12:07] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:12:07] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:13:03] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:13:03] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:13:04] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:13:04] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:13:07] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:13:07] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:13:08] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:13:08] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:13:10] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:13:10] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:13:11] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:13:11] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:13:13] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:13:13] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:16:05] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:16:05] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:17:09] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:17:09] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:17:12] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:17:12] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:17:14] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:17:14] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:18:13] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:18:13] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:18:14] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:18:14] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:18:16] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:18:16] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:18:32] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:18:32] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:19:01] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:19:01] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[12-Mar-2014 09:19:10] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 35
+[12-Mar-2014 09:19:10] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/gloryweb/public_html/Devnandan/autocomplete/autocomplete.php on line 37
+[27-Jul-2018 17:59:06 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/glorywebsdev/public_html/ecommerce/autocomplete/autocomplete.php on line 29
+[27-Jul-2018 17:59:06 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/glorywebsdev/public_html/ecommerce/autocomplete/autocomplete.php on line 29
+[27-Jul-2018 17:59:08 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/glorywebsdev/public_html/ecommerce/autocomplete/autocomplete.php on line 29
+[27-Jul-2018 18:01:20 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/glorywebsdev/public_html/ecommerce/autocomplete/autocomplete.php on line 29
+[27-Jul-2018 18:05:16 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/glorywebsdev/public_html/ecommerce/autocomplete/autocomplete.php on line 29
+[27-Jul-2018 18:05:17 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/glorywebsdev/public_html/ecommerce/autocomplete/autocomplete.php on line 29
+[27-Jul-2018 18:05:19 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/glorywebsdev/public_html/ecommerce/autocomplete/autocomplete.php on line 29
+[27-Jul-2018 18:05:21 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/glorywebsdev/public_html/ecommerce/autocomplete/autocomplete.php on line 29
+[27-Jul-2018 18:07:12 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/glorywebsdev/public_html/ecommerce/autocomplete/autocomplete.php on line 29
+[27-Jul-2018 18:07:13 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/glorywebsdev/public_html/ecommerce/autocomplete/autocomplete.php on line 29
+[27-Jul-2018 18:07:18 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/glorywebsdev/public_html/ecommerce/autocomplete/autocomplete.php on line 29
+[27-Jul-2018 18:07:19 Asia/Kolkata] PHP Fatal error:  Cannot break/continue 1 level in /home/glorywebsdev/public_html/ecommerce/autocomplete/autocomplete.php on line 29
