@@ -1,6 +1,5 @@
 <?php
 $connectionstring = "mysql://root:root@localhost/backend";
-iuhhb
 date_default_timezone_set("Asia/Kolkata");
 date_default_timezone_get();
 if (isset($_ENV["CLEARDB_DATABASE_URL"])) {
@@ -18,7 +17,7 @@ $database_name='devnanda_devnandan';  // Replace this 'db' with your database na
 //$servername='localhost' ; // Replace this 'localhost' with your server name
 $servername=$matches[3] ;
 $database_username='root'; // Replace this  with your username
-$database_password='';  // Replace this  with your password
+$database_password=' ';  // Replace this  with your password
 $database_name='gloryweb_ecommerce';  // Replace this 'db' with your database name ekove_com_-_main
 
 $dbLink = new mysqli($servername,$database_username,$database_password,$database_name);
